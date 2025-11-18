@@ -1,2 +1,4 @@
 API/appsettings.json
 API/dating.db*
+API/packages-microsoft-prod.deb
+dotnet-install.sh
